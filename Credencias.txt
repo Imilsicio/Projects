@@ -1,0 +1,4 @@
+Nota: Antes de usar o probgrama deve se importar a base de dados "atendimentomarcado.sql".
+
+usuario: admin
+Senha: admin
